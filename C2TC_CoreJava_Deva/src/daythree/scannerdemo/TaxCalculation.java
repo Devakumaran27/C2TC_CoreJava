@@ -1,4 +1,4 @@
-package Day3.scannerdemo;
+package daythree.scannerdemo;
 
 public class TaxCalculation {
 	public void calculateTax(Person person) {

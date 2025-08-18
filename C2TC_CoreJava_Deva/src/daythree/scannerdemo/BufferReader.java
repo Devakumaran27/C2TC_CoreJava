@@ -1,4 +1,4 @@
-package Day3.scannerdemo;
+package daythree.scannerdemo;
 
 import java.io.BufferedReader;
 import java.io.IOException;
