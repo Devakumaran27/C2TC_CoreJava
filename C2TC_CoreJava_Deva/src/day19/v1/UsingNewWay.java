@@ -1,4 +1,4 @@
-package daynineteen.v1;
+package day19.v1;
 
 public class UsingNewWay {
 
