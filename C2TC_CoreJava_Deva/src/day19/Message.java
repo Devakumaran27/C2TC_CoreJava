@@ -1,4 +1,4 @@
-package daynineteen;
+package day19;
 
 @FunctionalInterface
 public interface Message{  
